@@ -1,8 +1,8 @@
-My Python & Data Science Learning Journey
+My Python, Data Science & AI Learning Journey
 
 Welcome to my repository! 🌟
 
-I'm currently diving into the exciting world of Python programming and Data Science, and this repo is where I’m documenting every step of my learning process—from the basics of Python to exploring data, building models, and experimenting with real-world datasets.
+I'm currently diving into the exciting world of Python programming, Data Science and Artificial Intelligence, and this repo is where I’m documenting every step of my learning process—from the basics of Python to exploring data, building models, and experimenting with real-world datasets.
 
 🌱 Why This Repository?
 
